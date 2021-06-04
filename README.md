@@ -150,5 +150,5 @@ Once Laravel is installed, you should also configure your local environment.
 Authors names are:
 -------------------
 
-Evode TWIZEYIMANA AND NDAYISHIMYE Augustin    who study in ITL3A
+Evode TWIZEYIMANA 18rp09815 AND NDAYISHIMYE Augustin 18rp06383  who study in ITL3A
 
