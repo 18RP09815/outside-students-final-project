@@ -1,8 +1,10 @@
 cat2
 project name is outside student management system
-------------------------------------------------------------------------
-**1.Overview that can explain how the project is, how it can work and the framework used.**
-**a.How the project is?**
+--------------------------------------------------
+1.Overview that can explain how the project is, how it can work and the framework used.
+-----------------------------------------------------------------------------------------
+a.How the project is?
+----------------------
 
 With outside student Management system, will help IPRC TUMBA students to declare if they live outside the campus and will help dean easy to manage all students live outside the campus.
 
