@@ -153,7 +153,7 @@ Rename env.example to .env
 ----------------------------------------
 After rename then add name of database that you want
 -----------------------------------------------------------------------------
-And then in cmd of the system write **php artisan key:generate –-ansi
+And then in cmd of the system write php artisan key:generate –-ansi
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 Make composer install
 
