@@ -147,6 +147,16 @@ Laravel needs almost no other configuration out of the box.
 You are free to get started developing! However, you may wish to review the app/config/app.php file and its documentation. It contains several options such as timezone and locale that you may wish to change according to your application.
 Once Laravel is installed, you should also configure your local environment. 
 
+NB:IN ORDER TO USE THIS SYSTEM AFTER DOWNLOAD YOU WILL:
+-------------------------------------------------------
+Rename env.example to .env
+----------------------------------------
+After rename then add name of database that you want
+-----------------------------------------------------------------------------
+And then in cmd of the system write **php artisan key:generate –-ansi
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Make composer install
+
 Authors names are:
 -------------------
 
